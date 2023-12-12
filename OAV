@@ -1,0 +1,5461 @@
+Objeto               Atributo                        Valor
+Alimento   Nombre                  Aceituna - oliva 
+Alimento   Calorias                156
+Alimento   Proteinas               1.2
+Alimento   Carbohidratos           0
+Alimento   Grasas                  16.8
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Aceituna negra - oliva negra
+Alimento   Calorias                299
+Alimento   Proteinas               2
+Alimento   Carbohidratos           4
+Alimento   Grasas                  29.8
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Aceituna verde - oliva verde
+Alimento   Calorias                155
+Alimento   Proteinas               1.2
+Alimento   Carbohidratos           0
+Alimento   Grasas                  16.7
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Acelga
+Alimento   Calorias                30
+Alimento   Proteinas               1.8
+Alimento   Carbohidratos           4.5
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Acelga cocida en conserva
+Alimento   Calorias                19
+Alimento   Proteinas               1.8
+Alimento   Carbohidratos           2.3
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Aguacate
+Alimento   Calorias                233
+Alimento   Proteinas               1.8
+Alimento   Carbohidratos           0.4
+Alimento   Grasas                  23.5
+Alimento   Indice Glicemico        10
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Ajo
+Alimento   Calorias                120
+Alimento   Proteinas               4.3
+Alimento   Carbohidratos           24.4
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Alcachofa
+Alimento   Calorias                44
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           3
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        20
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Alcachofa congelada
+Alimento   Calorias                37
+Alimento   Proteinas               2.6
+Alimento   Carbohidratos           3.8
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        20
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Alcaparras
+Alimento   Calorias                43
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           4.8
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Apio en rama crudo
+Alimento   Calorias                19
+Alimento   Proteinas               1.1
+Alimento   Carbohidratos           2.4
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Berenjena
+Alimento   Calorias                22
+Alimento   Proteinas               1.2
+Alimento   Carbohidratos           2.3
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        20
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Brócoli
+Alimento   Calorias                33
+Alimento   Proteinas               3.5
+Alimento   Carbohidratos           2.6
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Brote de soja
+Alimento   Calorias                55
+Alimento   Proteinas               5.5
+Alimento   Carbohidratos           4.6
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Calabacín
+Alimento   Calorias                23
+Alimento   Proteinas               1.8
+Alimento   Carbohidratos           2
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Calabaza
+Alimento   Calorias                29
+Alimento   Proteinas               1.1
+Alimento   Carbohidratos           4.6
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        75
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Cebolla
+Alimento   Calorias                32
+Alimento   Proteinas               1.1
+Alimento   Carbohidratos           5.3
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Cebollino
+Alimento   Calorias                29
+Alimento   Proteinas               2.1
+Alimento   Carbohidratos           3.2
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        5
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Champiñón
+Alimento   Calorias                34
+Alimento   Proteinas               4.2
+Alimento   Carbohidratos           0.5
+Alimento   Grasas                  1.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Champiñón cocido en conserva
+Alimento   Calorias                21
+Alimento   Proteinas               3.3
+Alimento   Carbohidratos           0.1
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Chile
+Alimento   Calorias                20
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           1.6
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Choucroutte - chucrut
+Alimento   Calorias                16
+Alimento   Proteinas               1.5
+Alimento   Carbohidratos           2.4
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Coliflor
+Alimento   Calorias                28
+Alimento   Proteinas               2.4
+Alimento   Carbohidratos           2.3
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Espárrago blanco
+Alimento   Calorias                19
+Alimento   Proteinas               1.8
+Alimento   Carbohidratos           1.5
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Espárrago de lata
+Alimento   Calorias                19
+Alimento   Proteinas               1.8
+Alimento   Carbohidratos           1.5
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Espárrago verde
+Alimento   Calorias                21
+Alimento   Proteinas               2.2
+Alimento   Carbohidratos           2
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Espinaca
+Alimento   Calorias                21
+Alimento   Proteinas               2.6
+Alimento   Carbohidratos           0.6
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Espinaca cocida en conserva
+Alimento   Calorias                19
+Alimento   Proteinas               3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Frijol
+Alimento   Calorias                292
+Alimento   Proteinas               23.5
+Alimento   Carbohidratos           35.1
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Garbanzo
+Alimento   Calorias                383
+Alimento   Proteinas               20.8
+Alimento   Carbohidratos           55.8
+Alimento   Grasas                  5.5
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Garbanzo cocido en conserva
+Alimento   Calorias                120
+Alimento   Proteinas               7.2
+Alimento   Carbohidratos           14.1
+Alimento   Grasas                  3
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Guisante congelado
+Alimento   Calorias                72
+Alimento   Proteinas               6
+Alimento   Carbohidratos           9
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Guisante enlatado
+Alimento   Calorias                89
+Alimento   Proteinas               5.3
+Alimento   Carbohidratos           12.5
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Guisante fresco
+Alimento   Calorias                90
+Alimento   Proteinas               6.8
+Alimento   Carbohidratos           11.4
+Alimento   Grasas                  0.9
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Guisante seco
+Alimento   Calorias                318
+Alimento   Proteinas               22.9
+Alimento   Carbohidratos           56.7
+Alimento   Grasas                  1.4
+Alimento   Indice Glicemico        25
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Haba fresca cruda
+Alimento   Calorias                390
+Alimento   Proteinas               23.5
+Alimento   Carbohidratos           60
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Hinojo
+Alimento   Calorias                16
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           3.2
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Habichuela verde
+Alimento   Calorias                37
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           4.2
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Habichuela verde cocida en conserva
+Alimento   Calorias                15
+Alimento   Proteinas               1.1
+Alimento   Carbohidratos           1.5
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Lechuga
+Alimento   Calorias                20
+Alimento   Proteinas               1.3
+Alimento   Carbohidratos           1.5
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Lechuga romana
+Alimento   Calorias                20
+Alimento   Proteinas               1.3
+Alimento   Carbohidratos           1.4
+Alimento   Grasas                  0.6
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Lechuga salvaje
+Alimento   Calorias                17
+Alimento   Proteinas               1.6
+Alimento   Carbohidratos           1
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Lenteja
+Alimento   Calorias                350
+Alimento   Proteinas               23.1
+Alimento   Carbohidratos           54.8
+Alimento   Grasas                  1.7
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Lenteja cocida en conserva
+Alimento   Calorias                109
+Alimento   Proteinas               8.8
+Alimento   Carbohidratos           14.9
+Alimento   Grasas                  0.7
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Maíz
+Alimento   Calorias                102
+Alimento   Proteinas               3.3
+Alimento   Carbohidratos           18
+Alimento   Grasas                  1.2
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Mazorca de maíz
+Alimento   Calorias                345
+Alimento   Proteinas               8.5
+Alimento   Carbohidratos           64
+Alimento   Grasas                  3.8
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Nabo crudo
+Alimento   Calorias                31
+Alimento   Proteinas               1
+Alimento   Carbohidratos           4.6
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Palomitas de maíz
+Alimento   Calorias                495
+Alimento   Proteinas               6.2
+Alimento   Carbohidratos           44
+Alimento   Grasas                  30
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Papa cocida con piel
+Alimento   Calorias                77
+Alimento   Proteinas               1.7
+Alimento   Carbohidratos           16
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Pepinillos en vinagre
+Alimento   Calorias                18
+Alimento   Proteinas               1
+Alimento   Carbohidratos           2.6
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Pepino
+Alimento   Calorias                13
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           2
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Perejil
+Alimento   Calorias                59
+Alimento   Proteinas               4.4
+Alimento   Carbohidratos           7.4
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        5
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Pimiento rojo
+Alimento   Calorias                31
+Alimento   Proteinas               1.2
+Alimento   Carbohidratos           3.8
+Alimento   Grasas                  0.9
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Pimiento verde
+Alimento   Calorias                20
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           1.6
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Puerro
+Alimento   Calorias                29
+Alimento   Proteinas               2.1
+Alimento   Carbohidratos           3.2
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Puerro cocido en conserva
+Alimento   Calorias                31
+Alimento   Proteinas               1.2
+Alimento   Carbohidratos           3.8
+Alimento   Grasas                  0.7
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Puré natural de tomate tamizado 
+Alimento   Calorias                26
+Alimento   Proteinas               1.2
+Alimento   Carbohidratos           4.8
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Rábano
+Alimento   Calorias                17
+Alimento   Proteinas               1
+Alimento   Carbohidratos           2.1
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Remolacha
+Alimento   Calorias                46
+Alimento   Proteinas               1.5
+Alimento   Carbohidratos           8.3
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Remolacha cocida en conserva
+Alimento   Calorias                44
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           7.6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Repollo
+Alimento   Calorias                31
+Alimento   Proteinas               1.7
+Alimento   Carbohidratos           4
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Soja
+Alimento   Calorias                373
+Alimento   Proteinas               34
+Alimento   Carbohidratos           6
+Alimento   Grasas                  18
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Soja en grano
+Alimento   Calorias                422
+Alimento   Proteinas               35
+Alimento   Carbohidratos           30
+Alimento   Grasas                  18
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Soja fresca
+Alimento   Calorias                137
+Alimento   Proteinas               13.7
+Alimento   Carbohidratos           10.3
+Alimento   Grasas                  4.8
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Tomate
+Alimento   Calorias                23
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           3.5
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Tomate triturado
+Alimento   Calorias                38
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           5.5
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Zanahoria
+Alimento   Calorias                40
+Alimento   Proteinas               1.2
+Alimento   Carbohidratos           7
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Zanahoria cocida
+Alimento   Calorias                40
+Alimento   Proteinas               1.2
+Alimento   Carbohidratos           7
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Verduras y Legumbres
+
+
+
+Alimento   Nombre                  Ala de pollo
+Alimento   Calorias                217
+Alimento   Proteinas               18.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  16
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Anca de rana
+Alimento   Calorias                67
+Alimento   Proteinas               16.4
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Asadura de cordero
+Alimento   Calorias                90
+Alimento   Proteinas               16.7
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Babilla de ternera
+Alimento   Calorias                131
+Alimento   Proteinas               20.7
+Alimento   Carbohidratos           0
+Alimento   Grasas                  5.4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Bacon
+Alimento   Calorias                682
+Alimento   Proteinas               14.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  69.3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Bacon a la plancha
+Alimento   Calorias                393
+Alimento   Proteinas               28.1
+Alimento   Carbohidratos           0
+Alimento   Grasas                  31.2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Butifarra
+Alimento   Calorias                238
+Alimento   Proteinas               10
+Alimento   Carbohidratos           5.4
+Alimento   Grasas                  19.6
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Butifarra catalana
+Alimento   Calorias                249
+Alimento   Proteinas               17.7
+Alimento   Carbohidratos           0.4
+Alimento   Grasas                  19.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Butifarra cocida
+Alimento   Calorias                390
+Alimento   Proteinas               14.1
+Alimento   Carbohidratos           0.3
+Alimento   Grasas                  36
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Cabrito
+Alimento   Calorias                113
+Alimento   Proteinas               19.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Cadera de ternera
+Alimento   Calorias                131
+Alimento   Proteinas               20
+Alimento   Carbohidratos           0
+Alimento   Grasas                  5.4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Callos de ternera
+Alimento   Calorias                134
+Alimento   Proteinas               14.8
+Alimento   Carbohidratos           0
+Alimento   Grasas                  8.3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Carne ahumada
+Alimento   Calorias                182
+Alimento   Proteinas               32
+Alimento   Carbohidratos           0
+Alimento   Grasas                  6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Carne de vaca grasa
+Alimento   Calorias                200
+Alimento   Proteinas               18.5
+Alimento   Carbohidratos           0
+Alimento   Grasas                  14
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Carne de vaca magra
+Alimento   Calorias                120
+Alimento   Proteinas               20.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  4.3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Cerdo magro
+Alimento   Calorias                156
+Alimento   Proteinas               22
+Alimento   Carbohidratos           0
+Alimento   Grasas                  7.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Chicharrón
+Alimento   Calorias                601
+Alimento   Proteinas               22
+Alimento   Carbohidratos           0.5
+Alimento   Grasas                  57
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Chivo
+Alimento   Calorias                165
+Alimento   Proteinas               18.7
+Alimento   Carbohidratos           0
+Alimento   Grasas                  9.4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Chorizo
+Alimento   Calorias                356
+Alimento   Proteinas               21
+Alimento   Carbohidratos           1.9
+Alimento   Grasas                  29.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Chorizo blanco
+Alimento   Calorias                88
+Alimento   Proteinas               18
+Alimento   Carbohidratos           0
+Alimento   Grasas                  1.8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Chorizo pamplona
+Alimento   Calorias                520
+Alimento   Proteinas               15
+Alimento   Carbohidratos           7
+Alimento   Grasas                  47
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Chuleta de cerdo
+Alimento   Calorias                352
+Alimento   Proteinas               21.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  29.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Chuleta de cordero
+Alimento   Calorias                250
+Alimento   Proteinas               16
+Alimento   Carbohidratos           0
+Alimento   Grasas                  20
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Chuleta de ternera
+Alimento   Calorias                115
+Alimento   Proteinas               20.8
+Alimento   Carbohidratos           1.8
+Alimento   Grasas                  2.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Codorniz
+Alimento   Calorias                110
+Alimento   Proteinas               22.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Conejo
+Alimento   Calorias                88
+Alimento   Proteinas               10
+Alimento   Carbohidratos           0
+Alimento   Grasas                  5.2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Cordero asado
+Alimento   Calorias                266
+Alimento   Proteinas               26
+Alimento   Carbohidratos           0
+Alimento   Grasas                  17.9
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Costilla de cerdo
+Alimento   Calorias                281
+Alimento   Proteinas               17
+Alimento   Carbohidratos           0
+Alimento   Grasas                  23.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Costillas de cordero
+Alimento   Calorias                385
+Alimento   Proteinas               12
+Alimento   Carbohidratos           0
+Alimento   Grasas                  37
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Espaldilla de ternera
+Alimento   Calorias                205
+Alimento   Proteinas               20.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  13.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Espinazo de toro
+Alimento   Calorias                131
+Alimento   Proteinas               18.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  6.2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Filete de ternera
+Alimento   Calorias                131
+Alimento   Proteinas               18.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  6.2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Gallina
+Alimento   Calorias                232
+Alimento   Proteinas               17.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  18
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Hamburguesa de pollo
+Alimento   Calorias                153
+Alimento   Proteinas               19.1
+Alimento   Carbohidratos           1.8
+Alimento   Grasas                  7.7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Hamburguesas de vacuno - envasadas
+Alimento   Calorias                265
+Alimento   Proteinas               15.2
+Alimento   Carbohidratos           5.3
+Alimento   Grasas                  20.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Hígado de cerdo
+Alimento   Calorias                131
+Alimento   Proteinas               20.6
+Alimento   Carbohidratos           0.9
+Alimento   Grasas                  4.9
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Hígado de cordero frito
+Alimento   Calorias                237
+Alimento   Proteinas               30
+Alimento   Carbohidratos           0
+Alimento   Grasas                  13
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Hígado de pollo
+Alimento   Calorias                136
+Alimento   Proteinas               22
+Alimento   Carbohidratos           1.2
+Alimento   Grasas                  4.7
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Hígado de ternera
+Alimento   Calorias                136
+Alimento   Proteinas               19.3
+Alimento   Carbohidratos           4.2
+Alimento   Grasas                  4.6
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Jamón cocido
+Alimento   Calorias                120
+Alimento   Proteinas               18.4
+Alimento   Carbohidratos           0
+Alimento   Grasas                  5.1
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Jamón serrano
+Alimento   Calorias                136
+Alimento   Proteinas               21.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  5.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Lengua de cerdo
+Alimento   Calorias                157
+Alimento   Proteinas               16
+Alimento   Carbohidratos           0
+Alimento   Grasas                  10.3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Lengua de cordero
+Alimento   Calorias                193
+Alimento   Proteinas               15
+Alimento   Carbohidratos           0
+Alimento   Grasas                  14.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Lengua de ternera
+Alimento   Calorias                148
+Alimento   Proteinas               17.8
+Alimento   Carbohidratos           0
+Alimento   Grasas                  8.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Lomo de cerdo
+Alimento   Calorias                311
+Alimento   Proteinas               16.2
+Alimento   Carbohidratos           0
+Alimento   Grasas                  26.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Lomo de ternera
+Alimento   Calorias                120
+Alimento   Proteinas               16.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Longaniza
+Alimento   Calorias                152
+Alimento   Proteinas               20
+Alimento   Carbohidratos           0
+Alimento   Grasas                  8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Manita de cerdo
+Alimento   Calorias                291
+Alimento   Proteinas               16
+Alimento   Carbohidratos           0.5
+Alimento   Grasas                  25
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Molleja de cordero
+Alimento   Calorias                131
+Alimento   Proteinas               15.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  7.8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Molleja de vaca
+Alimento   Calorias                229
+Alimento   Proteinas               14.4
+Alimento   Carbohidratos           0
+Alimento   Grasas                  19
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Mollejas de pollo
+Alimento   Calorias                118
+Alimento   Proteinas               18.2
+Alimento   Carbohidratos           0.6
+Alimento   Grasas                  4.2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Mortadela
+Alimento   Calorias                266
+Alimento   Proteinas               11.8
+Alimento   Carbohidratos           1.3
+Alimento   Grasas                  23.7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Muslo de pollo
+Alimento   Calorias                113
+Alimento   Proteinas               20.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  3.4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Oreja de cerdo
+Alimento   Calorias                233
+Alimento   Proteinas               22.5
+Alimento   Carbohidratos           0
+Alimento   Grasas                  15.1
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pato
+Alimento   Calorias                227
+Alimento   Proteinas               18
+Alimento   Carbohidratos           0
+Alimento   Grasas                  17
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pavo
+Alimento   Calorias                157
+Alimento   Proteinas               20
+Alimento   Carbohidratos           0
+Alimento   Grasas                  8.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pechuga de pavo
+Alimento   Calorias                105
+Alimento   Proteinas               24
+Alimento   Carbohidratos           0
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pechuga de pollo
+Alimento   Calorias                113
+Alimento   Proteinas               20.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  3.4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pierna de cordero
+Alimento   Calorias                178
+Alimento   Proteinas               18
+Alimento   Carbohidratos           0
+Alimento   Grasas                  11.8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pies de cerdo
+Alimento   Calorias                264
+Alimento   Proteinas               22.1
+Alimento   Carbohidratos           0
+Alimento   Grasas                  18.8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pollo
+Alimento   Calorias                166
+Alimento   Proteinas               19.8
+Alimento   Carbohidratos           0
+Alimento   Grasas                  9.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pollo asado con piel
+Alimento   Calorias                213
+Alimento   Proteinas               24.4
+Alimento   Carbohidratos           0
+Alimento   Grasas                  12.8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pollo asado sin piel
+Alimento   Calorias                148
+Alimento   Proteinas               24.8
+Alimento   Carbohidratos           0
+Alimento   Grasas                  5.4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pollo empanado
+Alimento   Calorias                242
+Alimento   Proteinas               18
+Alimento   Carbohidratos           13.5
+Alimento   Grasas                  13
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pulmón de cerdo
+Alimento   Calorias                80
+Alimento   Proteinas               14
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2.7
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Pulmón de cordero
+Alimento   Calorias                90
+Alimento   Proteinas               16.7
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Riñón de cerdo
+Alimento   Calorias                102
+Alimento   Proteinas               16.9
+Alimento   Carbohidratos           0
+Alimento   Grasas                  3.7
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Riñón de cordero
+Alimento   Calorias                90
+Alimento   Proteinas               16.5
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2.7
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Salami
+Alimento   Calorias                444
+Alimento   Proteinas               21
+Alimento   Carbohidratos           1.7
+Alimento   Grasas                  39.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Salchicha fresca
+Alimento   Calorias                309
+Alimento   Proteinas               13.1
+Alimento   Carbohidratos           0.9
+Alimento   Grasas                  28
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Salchichas de cerdo - envasadas
+Alimento   Calorias                367
+Alimento   Proteinas               10.6
+Alimento   Carbohidratos           9.5
+Alimento   Grasas                  32.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Salchichón
+Alimento   Calorias                438
+Alimento   Proteinas               19.2
+Alimento   Carbohidratos           1.4
+Alimento   Grasas                  39.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Tripas
+Alimento   Calorias                100
+Alimento   Proteinas               19
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Carnes y Derivados
+
+
+
+Alimento   Nombre                  Almendra
+Alimento   Calorias                610
+Alimento   Proteinas               18.7
+Alimento   Carbohidratos           5.3
+Alimento   Grasas                  54
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Almendra frita
+Alimento   Calorias                621
+Alimento   Proteinas               19
+Alimento   Carbohidratos           4.5
+Alimento   Grasas                  55.1
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Almendra tostada
+Alimento   Calorias                621
+Alimento   Proteinas               23
+Alimento   Carbohidratos           6.6
+Alimento   Grasas                  53
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Arándano
+Alimento   Calorias                46
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           6
+Alimento   Grasas                  0.6
+Alimento   Indice Glicemico        25
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Avellana
+Alimento   Calorias                661
+Alimento   Proteinas               12
+Alimento   Carbohidratos           10.5
+Alimento   Grasas                  61.6
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Breva
+Alimento   Calorias                65
+Alimento   Proteinas               1.3
+Alimento   Carbohidratos           12.9
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Cacahuete - maní
+Alimento   Calorias                563
+Alimento   Proteinas               25.2
+Alimento   Carbohidratos           7.9
+Alimento   Grasas                  46
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Café en grano
+Alimento   Calorias                297
+Alimento   Proteinas               13.5
+Alimento   Carbohidratos           1.5
+Alimento   Grasas                  13.4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Cereza
+Alimento   Calorias                65
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           13
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        25
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Cerezas en almíbar
+Alimento   Calorias                80
+Alimento   Proteinas               1
+Alimento   Carbohidratos           19
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Ciruela
+Alimento   Calorias                51
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           10
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Ciruela pasa
+Alimento   Calorias                237
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           42.4
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Coco fresco
+Alimento   Calorias                385
+Alimento   Proteinas               4.6
+Alimento   Carbohidratos           4.7
+Alimento   Grasas                  36.5
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Coco rallado - seco
+Alimento   Calorias                630
+Alimento   Proteinas               5.6
+Alimento   Carbohidratos           6.4
+Alimento   Grasas                  62
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Compota de manzana
+Alimento   Calorias                78
+Alimento   Proteinas               0
+Alimento   Carbohidratos           19
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Dátil
+Alimento   Calorias                293
+Alimento   Proteinas               1.8
+Alimento   Carbohidratos           65
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Durazno
+Alimento   Calorias                49
+Alimento   Proteinas               1
+Alimento   Carbohidratos           10.2
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Frambuesa
+Alimento   Calorias                43
+Alimento   Proteinas               1.3
+Alimento   Carbohidratos           4.8
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        25
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Fresa
+Alimento   Calorias                35
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           5.5
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        25
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Fresón
+Alimento   Calorias                35
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           5.5
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        25
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Granada
+Alimento   Calorias                78
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           16.1
+Alimento   Grasas                  0.6
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Guayaba
+Alimento   Calorias                44
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           5.8
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Higo - fresco
+Alimento   Calorias                65
+Alimento   Proteinas               1.3
+Alimento   Carbohidratos           12.9
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Higo chumbo
+Alimento   Calorias                36
+Alimento   Proteinas               1
+Alimento   Carbohidratos           7.1
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Higo seco
+Alimento   Calorias                275
+Alimento   Proteinas               3.5
+Alimento   Carbohidratos           55
+Alimento   Grasas                  1.3
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Kiwi
+Alimento   Calorias                56
+Alimento   Proteinas               1
+Alimento   Carbohidratos           9.1
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Lima
+Alimento   Calorias                17
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           1.9
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Limón
+Alimento   Calorias                42
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           3.1
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        20
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Mandarina
+Alimento   Calorias                44
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           9.2
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Mango
+Alimento   Calorias                61
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           12.5
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Manzana
+Alimento   Calorias                55
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           11.5
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Manzana seca
+Alimento   Calorias                268
+Alimento   Proteinas               1
+Alimento   Carbohidratos           61
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Maracuyá
+Alimento   Calorias                66
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           9.5
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Melocotón
+Alimento   Calorias                52
+Alimento   Proteinas               1
+Alimento   Carbohidratos           10.3
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Melocotón cocido sin azúcar
+Alimento   Calorias                79
+Alimento   Proteinas               1
+Alimento   Carbohidratos           19
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Melocotón en almíbar
+Alimento   Calorias                60
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           14
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Melocotón seco
+Alimento   Calorias                266
+Alimento   Proteinas               3
+Alimento   Carbohidratos           53.2
+Alimento   Grasas                  0.6
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Melón
+Alimento   Calorias                25
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           6
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Moras
+Alimento   Calorias                47
+Alimento   Proteinas               1.1
+Alimento   Carbohidratos           6.2
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        25
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Naranja
+Alimento   Calorias                48
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           9
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Nuez
+Alimento   Calorias                649
+Alimento   Proteinas               14.4
+Alimento   Carbohidratos           4.4
+Alimento   Grasas                  62.5
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Papaya
+Alimento   Calorias                35
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           7.1
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Pera
+Alimento   Calorias                54
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           11.7
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Pera en almíbar
+Alimento   Calorias                70
+Alimento   Proteinas               0.2
+Alimento   Carbohidratos           16
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Piña
+Alimento   Calorias                53
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           10.5
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Piña en almíbar
+Alimento   Calorias                70
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           15.4
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Piña en su jugo
+Alimento   Calorias                45
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           9.7
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Pistacho
+Alimento   Calorias                603
+Alimento   Proteinas               17.6
+Alimento   Carbohidratos           11.6
+Alimento   Grasas                  51.6
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Plátano banana madura
+Alimento   Calorias                96
+Alimento   Proteinas               1
+Alimento   Carbohidratos           20.8
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Plátano banana verde
+Alimento   Calorias                96
+Alimento   Proteinas               1
+Alimento   Carbohidratos           20.8
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Sandía
+Alimento   Calorias                18
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           4.5
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        75
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Semilla de sésamo
+Alimento   Calorias                563
+Alimento   Proteinas               18.6
+Alimento   Carbohidratos           21.6
+Alimento   Grasas                  49.1
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Semillas de lino 
+Alimento   Calorias                580
+Alimento   Proteinas               22.5
+Alimento   Carbohidratos           22.5
+Alimento   Grasas                  43.1
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Tamarindo
+Alimento   Calorias                238
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           56.7
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Semillas
+
+
+
+Alimento   Nombre                  Toronja
+Alimento   Calorias                41
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           7.4
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Uva 
+Alimento   Calorias                68
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           16
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Yuca 
+Alimento   Calorias                148
+Alimento   Proteinas               1.1
+Alimento   Carbohidratos           35.5
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Frutas
+
+
+
+Alimento   Nombre                  Almidón de arroz	
+Alimento   Calorias                343
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           85
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        100
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Almidón de maíz - maizena
+Alimento   Calorias                355
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           88.2
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Almidón de trigo
+Alimento   Calorias                348
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           86.1
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        105
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Arroz blanco
+Alimento   Calorias                366
+Alimento   Proteinas               6.6
+Alimento   Carbohidratos           81.6
+Alimento   Grasas                  0.9
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Arroz integral
+Alimento   Calorias                350
+Alimento   Proteinas               7.2
+Alimento   Carbohidratos           74.1
+Alimento   Grasas                  2.2
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Arroz integral cocido
+Alimento   Calorias                107
+Alimento   Proteinas               2.1
+Alimento   Carbohidratos           23
+Alimento   Grasas                  0.6
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Arroz salvaje
+Alimento   Calorias                306
+Alimento   Proteinas               12.3
+Alimento   Carbohidratos           60.2
+Alimento   Grasas                  1.8
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Avena
+Alimento   Calorias                367
+Alimento   Proteinas               14
+Alimento   Carbohidratos           66.5
+Alimento   Grasas                  5
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Cebada - completa, integral
+Alimento   Calorias                373
+Alimento   Proteinas               10.4
+Alimento   Carbohidratos           82.3
+Alimento   Grasas                  1.4
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Centeno - completo, integral
+Alimento   Calorias                350
+Alimento   Proteinas               9.4
+Alimento   Carbohidratos           76
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Cereales Chocokrispis
+Alimento   Calorias                358
+Alimento   Proteinas               5.3
+Alimento   Carbohidratos           87.4
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Cereales con miel
+Alimento   Calorias                366
+Alimento   Proteinas               5.5
+Alimento   Carbohidratos           77.6
+Alimento   Grasas                  3
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Cereales de maíz azucarados
+Alimento   Calorias                378
+Alimento   Proteinas               4.5
+Alimento   Carbohidratos           88
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Cereales Frostis
+Alimento   Calorias                355
+Alimento   Proteinas               5.3
+Alimento   Carbohidratos           88.6
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Espagueti
+Alimento   Calorias                359
+Alimento   Proteinas               12.7
+Alimento   Carbohidratos           72.3
+Alimento   Grasas                  1.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Espagueti al dente
+Alimento   Calorias                359
+Alimento   Proteinas               12.7
+Alimento   Carbohidratos           72.3
+Alimento   Grasas                  1.5
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Espagueti muy cocido
+Alimento   Calorias                359
+Alimento   Proteinas               12.7
+Alimento   Carbohidratos           72.3
+Alimento   Grasas                  1.5
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Fécula de arroz
+Alimento   Calorias                343
+Alimento   Proteinas               0
+Alimento   Carbohidratos           85
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        95
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Fécula de patata
+Alimento   Calorias                335
+Alimento   Proteinas               0
+Alimento   Carbohidratos           83
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        95
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Fécula de trigo
+Alimento   Calorias                333
+Alimento   Proteinas               0
+Alimento   Carbohidratos           82
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Fideo
+Alimento   Calorias                359
+Alimento   Proteinas               12.7
+Alimento   Carbohidratos           72.3
+Alimento   Grasas                  1.5
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Galleta
+Alimento   Calorias                482
+Alimento   Proteinas               7
+Alimento   Carbohidratos           69
+Alimento   Grasas                  19
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Galleta integral sin azúcar
+Alimento   Calorias                427
+Alimento   Proteinas               10
+Alimento   Carbohidratos           42.9
+Alimento   Grasas                  21
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Galleta salada
+Alimento   Calorias                468
+Alimento   Proteinas               10
+Alimento   Carbohidratos           49
+Alimento   Grasas                  25
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Galleta tipo digestive
+Alimento   Calorias                469
+Alimento   Proteinas               6.3
+Alimento   Carbohidratos           63
+Alimento   Grasas                  20.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Germen de centeno
+Alimento   Calorias                405
+Alimento   Proteinas               42
+Alimento   Carbohidratos           26
+Alimento   Grasas                  11
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Germen de trigo
+Alimento   Calorias                285
+Alimento   Proteinas               26
+Alimento   Carbohidratos           28
+Alimento   Grasas                  9
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Harina de arroz
+Alimento   Calorias                355
+Alimento   Proteinas               6
+Alimento   Carbohidratos           79
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        95
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Harina de avena
+Alimento   Calorias                388
+Alimento   Proteinas               14
+Alimento   Carbohidratos           66
+Alimento   Grasas                  7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Harina de cebada
+Alimento   Calorias                350
+Alimento   Proteinas               10
+Alimento   Carbohidratos           72
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Harina de centeno integral
+Alimento   Calorias                283
+Alimento   Proteinas               9
+Alimento   Carbohidratos           56
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Harina de maíz
+Alimento   Calorias                343
+Alimento   Proteinas               8.2
+Alimento   Carbohidratos           66
+Alimento   Grasas                  2.8
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Harina de soja
+Alimento   Calorias                384
+Alimento   Proteinas               37.3
+Alimento   Carbohidratos           3
+Alimento   Grasas                  20.6
+Alimento   Indice Glicemico        25
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Harina de trigo
+Alimento   Calorias                341
+Alimento   Proteinas               9.8
+Alimento   Carbohidratos           70.6
+Alimento   Grasas                  1.2
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Harina de trigo integral
+Alimento   Calorias                322
+Alimento   Proteinas               12.7
+Alimento   Carbohidratos           58.2
+Alimento   Grasas                  2.2
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Macarrones
+Alimento   Calorias                359
+Alimento   Proteinas               12.7
+Alimento   Carbohidratos           72.3
+Alimento   Grasas                  1.5
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Macarrones integrales
+Alimento   Calorias                321
+Alimento   Proteinas               11
+Alimento   Carbohidratos           65
+Alimento   Grasas                  2.3
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Maíz cocido
+Alimento   Calorias                50
+Alimento   Proteinas               1.1
+Alimento   Carbohidratos           10.7
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan blanco
+Alimento   Calorias                260
+Alimento   Proteinas               8.4
+Alimento   Carbohidratos           51.5
+Alimento   Grasas                  1.6
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan blanco de molde
+Alimento   Calorias                250
+Alimento   Proteinas               7.7
+Alimento   Carbohidratos           50
+Alimento   Grasas                  1.3
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan de centeno
+Alimento   Calorias                230
+Alimento   Proteinas               6.2
+Alimento   Carbohidratos           45.8
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan de centeno integral
+Alimento   Calorias                230
+Alimento   Proteinas               6.2
+Alimento   Carbohidratos           45.8
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan de hamburguesa
+Alimento   Calorias                271
+Alimento   Proteinas               7.5
+Alimento   Carbohidratos           47.5
+Alimento   Grasas                  4.7
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan de harina de trigo integral
+Alimento   Calorias                232
+Alimento   Proteinas               7
+Alimento   Carbohidratos           40.7
+Alimento   Grasas                  3
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan de maíz
+Alimento   Calorias                227
+Alimento   Proteinas               6.4
+Alimento   Carbohidratos           43.8
+Alimento   Grasas                  1.9
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan integral de molde
+Alimento   Calorias                269
+Alimento   Proteinas               11
+Alimento   Carbohidratos           44
+Alimento   Grasas                  4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Pan tostado de harina de trigo integral sin azúcar
+Alimento   Calorias                277
+Alimento   Proteinas               10.8
+Alimento   Carbohidratos           47.5
+Alimento   Grasas                  2.9
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Quinoa
+Alimento   Calorias                240
+Alimento   Proteinas               10
+Alimento   Carbohidratos           41
+Alimento   Grasas                  4
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Salvado de avena
+Alimento   Calorias                383
+Alimento   Proteinas               17
+Alimento   Carbohidratos           58.9
+Alimento   Grasas                  8.8
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Salvado de trigo
+Alimento   Calorias                273
+Alimento   Proteinas               15.5
+Alimento   Carbohidratos           21.7
+Alimento   Grasas                  4.2
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Sémola de trigo
+Alimento   Calorias                350
+Alimento   Proteinas               12.6
+Alimento   Carbohidratos           69
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Tortitas de arroz integral
+Alimento   Calorias                386
+Alimento   Proteinas               8
+Alimento   Carbohidratos           84
+Alimento   Grasas                  2
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Cereales y Derivados
+
+
+
+Alimento   Nombre                  Almeja
+Alimento   Calorias                76
+Alimento   Proteinas               15.5
+Alimento   Carbohidratos           1.5
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Almeja y berberecho en conserva
+Alimento   Calorias                74
+Alimento   Proteinas               17.5
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Anchoa
+Alimento   Calorias                142
+Alimento   Proteinas               21.5
+Alimento   Carbohidratos           0.5
+Alimento   Grasas                  6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Anchoa en aceite
+Alimento   Calorias                255
+Alimento   Proteinas               29
+Alimento   Carbohidratos           0.3
+Alimento   Grasas                  15
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Anguila
+Alimento   Calorias                281
+Alimento   Proteinas               15
+Alimento   Carbohidratos           0
+Alimento   Grasas                  24.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Anguilas ahumadas
+Alimento   Calorias                350
+Alimento   Proteinas               17
+Alimento   Carbohidratos           0
+Alimento   Grasas                  28
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Angula
+Alimento   Calorias                205
+Alimento   Proteinas               16.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  15.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Atún
+Alimento   Calorias                226
+Alimento   Proteinas               21
+Alimento   Carbohidratos           0
+Alimento   Grasas                  15.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Atún al natural
+Alimento   Calorias                99
+Alimento   Proteinas               25
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0.4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Atún en aceite
+Alimento   Calorias                208
+Alimento   Proteinas               25
+Alimento   Carbohidratos           0
+Alimento   Grasas                  12
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Bacalao fresco
+Alimento   Calorias                76
+Alimento   Proteinas               17.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Bacalao salado
+Alimento   Calorias                315
+Alimento   Proteinas               75
+Alimento   Carbohidratos           0
+Alimento   Grasas                  1.7
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Ballena
+Alimento   Calorias                134
+Alimento   Proteinas               23
+Alimento   Carbohidratos           0
+Alimento   Grasas                  3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Calamar1
+Alimento   Calorias                801
+Alimento   Proteinas               161
+Alimento   Carbohidratos           0.71
+Alimento   Grasas                  1.51
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Camarón1
+Alimento   Calorias                751
+Alimento   Proteinas               17.51
+Alimento   Carbohidratos           01
+Alimento   Grasas                  0.51
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Cangrejo1
+Alimento   Calorias                1251
+Alimento   Proteinas               19.51
+Alimento   Carbohidratos           01
+Alimento   Grasas                  51
+Alimento   Indice Glicemico        5
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Caviar1
+Alimento   Calorias                2451
+Alimento   Proteinas               261
+Alimento   Carbohidratos           01
+Alimento   Grasas                  15.51
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Langosta
+Alimento   Calorias                84
+Alimento   Proteinas               17
+Alimento   Carbohidratos           1.3
+Alimento   Grasas                  1
+Alimento   Indice Glicemico        5
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Langostino
+Alimento   Calorias                104
+Alimento   Proteinas               24.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        5
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Mejillón
+Alimento   Calorias                68
+Alimento   Proteinas               10
+Alimento   Carbohidratos           2.3
+Alimento   Grasas                  2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Mejillón al natural en conserva
+Alimento   Calorias                82
+Alimento   Proteinas               12
+Alimento   Carbohidratos           2
+Alimento   Grasas                  3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Mejillón en escabeche
+Alimento   Calorias                68
+Alimento   Proteinas               12
+Alimento   Carbohidratos           0
+Alimento   Grasas                  4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Merluza
+Alimento   Calorias                64
+Alimento   Proteinas               12
+Alimento   Carbohidratos           0
+Alimento   Grasas                  1.8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Merluza congelada
+Alimento   Calorias                81
+Alimento   Proteinas               16
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Pescado empanado
+Alimento   Calorias                183
+Alimento   Proteinas               12.6
+Alimento   Carbohidratos           15.8
+Alimento   Grasas                  7.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Pulpo
+Alimento   Calorias                84
+Alimento   Proteinas               18
+Alimento   Carbohidratos           0
+Alimento   Grasas                  1.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Róbalo
+Alimento   Calorias                98
+Alimento   Proteinas               19.3
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2.3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Salmón
+Alimento   Calorias                191
+Alimento   Proteinas               20.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  12
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Salmón ahumado
+Alimento   Calorias                140
+Alimento   Proteinas               25.4
+Alimento   Carbohidratos           0
+Alimento   Grasas                  4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Sardina
+Alimento   Calorias                157
+Alimento   Proteinas               18
+Alimento   Carbohidratos           0
+Alimento   Grasas                  9.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Sardina con tomate en conserva
+Alimento   Calorias                126
+Alimento   Proteinas               18.8
+Alimento   Carbohidratos           0.7
+Alimento   Grasas                  54
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Sardina en aceite
+Alimento   Calorias                205
+Alimento   Proteinas               24
+Alimento   Carbohidratos           0
+Alimento   Grasas                  12
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Solla
+Alimento   Calorias                80
+Alimento   Proteinas               17.1
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Trucha
+Alimento   Calorias                135
+Alimento   Proteinas               18.7
+Alimento   Carbohidratos           0
+Alimento   Grasas                  6.7
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Pescados y Mariscos
+
+
+
+Alimento   Nombre                  Clara de huevo
+Alimento   Calorias                49
+Alimento   Proteinas               11
+Alimento   Carbohidratos           0.7
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Huevos
+
+
+
+Alimento   Nombre                  Cuajada	
+Alimento   Calorias                86
+Alimento   Proteinas               4.5
+Alimento   Carbohidratos           6.5
+Alimento   Grasas                  4.7
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Huevos
+
+
+
+Alimento   Nombre                  Huevo de codorniz
+Alimento   Calorias                155
+Alimento   Proteinas               13
+Alimento   Carbohidratos           0.4
+Alimento   Grasas                  11
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Huevos
+
+
+
+Alimento   Nombre                  Huevo de gallina
+Alimento   Calorias                162
+Alimento   Proteinas               12.6
+Alimento   Carbohidratos           0.6
+Alimento   Grasas                  12
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Huevos
+
+
+
+Alimento   Nombre                  Huevo de pato
+Alimento   Calorias                184
+Alimento   Proteinas               13
+Alimento   Carbohidratos           0.7
+Alimento   Grasas                  14.4
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Huevos
+
+
+
+Alimento   Nombre                  Huevo frito
+Alimento   Calorias                232
+Alimento   Proteinas               14
+Alimento   Carbohidratos           0.2
+Alimento   Grasas                  20
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Huevos
+
+
+
+Alimento   Nombre                  Huevo hervido
+Alimento   Calorias                147
+Alimento   Proteinas               12.3
+Alimento   Carbohidratos           0.2
+Alimento   Grasas                  10.9
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Huevos
+
+
+
+Alimento   Nombre                  Yema de huevo
+Alimento   Calorias                353
+Alimento   Proteinas               16
+Alimento   Carbohidratos           0.2
+Alimento   Grasas                  32
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Huevos
+
+
+
+Alimento   Nombre                  Leche condensada
+Alimento   Calorias                336
+Alimento   Proteinas               8.5
+Alimento   Carbohidratos           52.8
+Alimento   Grasas                  10.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Leche condensada desnatada azucarada
+Alimento   Calorias                282
+Alimento   Proteinas               10
+Alimento   Carbohidratos           60
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Leche de cabra
+Alimento   Calorias                68
+Alimento   Proteinas               3.7
+Alimento   Carbohidratos           4.3
+Alimento   Grasas                  3.9
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Leche de vaca desnatada
+Alimento   Calorias                32
+Alimento   Proteinas               3.4
+Alimento   Carbohidratos           4.7
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Leche de vaca en polvo desnatada
+Alimento   Calorias                358
+Alimento   Proteinas               36.1
+Alimento   Carbohidratos           50.3
+Alimento   Grasas                  0.6
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Leche de vaca entera
+Alimento   Calorias                65
+Alimento   Proteinas               3.2
+Alimento   Carbohidratos           4.6
+Alimento   Grasas                  3.9
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Leche de vaca semidesnatada
+Alimento   Calorias                47
+Alimento   Proteinas               2.8
+Alimento   Carbohidratos           4.3
+Alimento   Grasas                  1.6
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Leche en polvo entera
+Alimento   Calorias                490
+Alimento   Proteinas               25.2
+Alimento   Carbohidratos           38.1
+Alimento   Grasas                  26.2
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Leche evaporada entera
+Alimento   Calorias                151
+Alimento   Proteinas               8.4
+Alimento   Carbohidratos           8
+Alimento   Grasas                  9.4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Nata - crema de leche
+Alimento   Calorias                447
+Alimento   Proteinas               15
+Alimento   Carbohidratos           2
+Alimento   Grasas                  48.2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso azul
+Alimento   Calorias                355
+Alimento   Proteinas               21
+Alimento   Carbohidratos           0
+Alimento   Grasas                  30
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso blanco descremado - desnatado
+Alimento   Calorias                70
+Alimento   Proteinas               10
+Alimento   Carbohidratos           3.1
+Alimento   Grasas                  1.6
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso brie
+Alimento   Calorias                345
+Alimento   Proteinas               22.6
+Alimento   Carbohidratos           0.1
+Alimento   Grasas                  27.9
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso camembert
+Alimento   Calorias                285
+Alimento   Proteinas               20.9
+Alimento   Carbohidratos           0.1
+Alimento   Grasas                  22.3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso cheddar
+Alimento   Calorias                397
+Alimento   Proteinas               25.3
+Alimento   Carbohidratos           0.3
+Alimento   Grasas                  32.2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso de Burgos
+Alimento   Calorias                203
+Alimento   Proteinas               14
+Alimento   Carbohidratos           2.5
+Alimento   Grasas                  15
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso de cabra curado
+Alimento   Calorias                467
+Alimento   Proteinas               27.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  39.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso de cabra tierno
+Alimento   Calorias                208
+Alimento   Proteinas               11
+Alimento   Carbohidratos           1
+Alimento   Grasas                  17.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso de oveja
+Alimento   Calorias                380
+Alimento   Proteinas               28.2
+Alimento   Carbohidratos           0
+Alimento   Grasas                  29.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso fresco descremado - desnatado
+Alimento   Calorias                68
+Alimento   Proteinas               10.5
+Alimento   Carbohidratos           3.2
+Alimento   Grasas                  1.6
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso holandés
+Alimento   Calorias                245
+Alimento   Proteinas               16.5
+Alimento   Carbohidratos           0
+Alimento   Grasas                  20
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso manchego
+Alimento   Calorias                406
+Alimento   Proteinas               26
+Alimento   Carbohidratos           0
+Alimento   Grasas                  33.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso manchego curado
+Alimento   Calorias                476
+Alimento   Proteinas               38
+Alimento   Carbohidratos           0.5
+Alimento   Grasas                  35
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso manchego en aceite
+Alimento   Calorias                471
+Alimento   Proteinas               26.5
+Alimento   Carbohidratos           0
+Alimento   Grasas                  40
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso mozzarella
+Alimento   Calorias                233
+Alimento   Proteinas               19.9
+Alimento   Carbohidratos           1
+Alimento   Grasas                  16.1
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso parmesano
+Alimento   Calorias                375
+Alimento   Proteinas               35.6
+Alimento   Carbohidratos           0
+Alimento   Grasas                  25.8
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso ricotta
+Alimento   Calorias                185
+Alimento   Proteinas               14.5
+Alimento   Carbohidratos           2.5
+Alimento   Grasas                  13
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso ricotta descremado
+Alimento   Calorias                105
+Alimento   Proteinas               13
+Alimento   Carbohidratos           2
+Alimento   Grasas                  5
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Queso roquefort
+Alimento   Calorias                370
+Alimento   Proteinas               21.5
+Alimento   Carbohidratos           0
+Alimento   Grasas                  30.6
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Suero de leche
+Alimento   Calorias                36
+Alimento   Proteinas               3
+Alimento   Carbohidratos           4
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Yogur con frutas desnatado
+Alimento   Calorias                70
+Alimento   Proteinas               3.8
+Alimento   Carbohidratos           13
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Yogur griego
+Alimento   Calorias                139
+Alimento   Proteinas               6.4
+Alimento   Carbohidratos           5.3
+Alimento   Grasas                  10.2
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Yogur líquido azucarado
+Alimento   Calorias                69
+Alimento   Proteinas               3
+Alimento   Carbohidratos           11.6
+Alimento   Grasas                  1.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Yogur natural desnatado
+Alimento   Calorias                47
+Alimento   Proteinas               4.2
+Alimento   Carbohidratos           6.3
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Yogur natural entero
+Alimento   Calorias                64
+Alimento   Proteinas               3.9
+Alimento   Carbohidratos           5.5
+Alimento   Grasas                  2.6
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Lacteos
+
+
+
+Alimento   Nombre                  Arroz con leche	
+Alimento   Calorias                90
+Alimento   Proteinas               3.3
+Alimento   Carbohidratos           17
+Alimento   Grasas                  1.3
+Alimento   Indice Glicemico        75
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Azúcar blanca - sacarosa
+Alimento   Calorias                399
+Alimento   Proteinas               0
+Alimento   Carbohidratos           99.8
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Azúcar moreno
+Alimento   Calorias                390
+Alimento   Proteinas               0
+Alimento   Carbohidratos           97.8
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Barrita de chocolate y galleta
+Alimento   Calorias                500
+Alimento   Proteinas               6.5
+Alimento   Carbohidratos           63
+Alimento   Grasas                  24.5
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Batido de chocolate
+Alimento   Calorias                84
+Alimento   Proteinas               2.7
+Alimento   Carbohidratos           10
+Alimento   Grasas                  3.7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Bizcocho
+Alimento   Calorias                347
+Alimento   Proteinas               6
+Alimento   Carbohidratos           68.4
+Alimento   Grasas                  5.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Bizcocho de chocolate
+Alimento   Calorias                455
+Alimento   Proteinas               7.5
+Alimento   Carbohidratos           48
+Alimento   Grasas                  26.4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Bizcochos soletilla
+Alimento   Calorias                316
+Alimento   Proteinas               9.6
+Alimento   Carbohidratos           57.7
+Alimento   Grasas                  5.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Bollo de chocolate
+Alimento   Calorias                390
+Alimento   Proteinas               9
+Alimento   Carbohidratos           48
+Alimento   Grasas                  17
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Bollo tipo donette
+Alimento   Calorias                460
+Alimento   Proteinas               6.1
+Alimento   Carbohidratos           46
+Alimento   Grasas                  27
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Buñuelo
+Alimento   Calorias                408
+Alimento   Proteinas               6.3
+Alimento   Carbohidratos           51.6
+Alimento   Grasas                  20.1
+Alimento   Indice Glicemico        75
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Cacao en polvo azucarado
+Alimento   Calorias                400
+Alimento   Proteinas               19.8
+Alimento   Carbohidratos           11
+Alimento   Grasas                  24.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Caramelo
+Alimento   Calorias                382
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           96
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Chicle con azúcar
+Alimento   Calorias                310
+Alimento   Proteinas               0
+Alimento   Carbohidratos           95.2
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Chocolate blanco
+Alimento   Calorias                550
+Alimento   Proteinas               8
+Alimento   Carbohidratos           59
+Alimento   Grasas                  31
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Chocolate con leche
+Alimento   Calorias                537
+Alimento   Proteinas               10
+Alimento   Carbohidratos           54.1
+Alimento   Grasas                  31
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Chocolate en polvo
+Alimento   Calorias                425
+Alimento   Proteinas               5.5
+Alimento   Carbohidratos           85
+Alimento   Grasas                  6
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Chocolate puro
+Alimento   Calorias                510
+Alimento   Proteinas               5.3
+Alimento   Carbohidratos           47
+Alimento   Grasas                  30
+Alimento   Indice Glicemico        20
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Chocolatina tipo mars
+Alimento   Calorias                569
+Alimento   Proteinas               12.3
+Alimento   Carbohidratos           39.6
+Alimento   Grasas                  43.7
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Churro
+Alimento   Calorias                361
+Alimento   Proteinas               4.6
+Alimento   Carbohidratos           40
+Alimento   Grasas                  20
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Colacao
+Alimento   Calorias                361
+Alimento   Proteinas               6.8
+Alimento   Carbohidratos           78
+Alimento   Grasas                  2.4
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Colacao light
+Alimento   Calorias                315
+Alimento   Proteinas               18.8
+Alimento   Carbohidratos           51.5
+Alimento   Grasas                  5.5
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de arándanos
+Alimento   Calorias                243
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           60.4
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de cereza
+Alimento   Calorias                250
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           62.2
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de ciruela
+Alimento   Calorias                241
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           60
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de frambuesa
+Alimento   Calorias                247
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           61.3
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de fresa
+Alimento   Calorias                234
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           58.2
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de grosellas
+Alimento   Calorias                236
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           58.7
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de membrillo
+Alimento   Calorias                236
+Alimento   Proteinas               0.2
+Alimento   Carbohidratos           58.8
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de moras
+Alimento   Calorias                237
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           58.7
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Confitura de naranja
+Alimento   Calorias                243
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           60.4
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Copa Dalky chocolate
+Alimento   Calorias                143
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           18.4
+Alimento   Grasas                  6.7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Copa Dalky fresa
+Alimento   Calorias                141
+Alimento   Proteinas               2.5
+Alimento   Carbohidratos           18.2
+Alimento   Grasas                  6.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Copa de chocolate y nata
+Alimento   Calorias                138
+Alimento   Proteinas               3.2
+Alimento   Carbohidratos           21
+Alimento   Grasas                  4.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Crema catalana
+Alimento   Calorias                103
+Alimento   Proteinas               3.7
+Alimento   Carbohidratos           15.4
+Alimento   Grasas                  3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Crema de almendra azucarada
+Alimento   Calorias                377
+Alimento   Proteinas               4.6
+Alimento   Carbohidratos           59.7
+Alimento   Grasas                  13.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Crema de almendra sin azúcar
+Alimento   Calorias                377
+Alimento   Proteinas               4.6
+Alimento   Carbohidratos           50
+Alimento   Grasas                  13.2
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Crema de cacao y avellanas
+Alimento   Calorias                550
+Alimento   Proteinas               6.2
+Alimento   Carbohidratos           56
+Alimento   Grasas                  33
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Croisant - croissant
+Alimento   Calorias                445
+Alimento   Proteinas               7
+Alimento   Carbohidratos           52.6
+Alimento   Grasas                  22.5
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Croisant - croissant - de chocolate
+Alimento   Calorias                460
+Alimento   Proteinas               5.5
+Alimento   Carbohidratos           74
+Alimento   Grasas                  15
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Donut de chocolate
+Alimento   Calorias                500
+Alimento   Proteinas               3.7
+Alimento   Carbohidratos           43
+Alimento   Grasas                  32
+Alimento   Indice Glicemico        75
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Ensaimada
+Alimento   Calorias                469
+Alimento   Proteinas               6.4
+Alimento   Carbohidratos           65.5
+Alimento   Grasas                  22
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Flan de huevo
+Alimento   Calorias                144
+Alimento   Proteinas               5
+Alimento   Carbohidratos           20.5
+Alimento   Grasas                  4.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Flan de vainilla
+Alimento   Calorias                120
+Alimento   Proteinas               3
+Alimento   Carbohidratos           24
+Alimento   Grasas                  1.6
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Fructosa
+Alimento   Calorias                399
+Alimento   Proteinas               0
+Alimento   Carbohidratos           99.8
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        20
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Galleta con mantequilla
+Alimento   Calorias                475
+Alimento   Proteinas               6.2
+Alimento   Carbohidratos           60.3
+Alimento   Grasas                  24
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Galleta de chocolate
+Alimento   Calorias                491
+Alimento   Proteinas               6.9
+Alimento   Carbohidratos           60.4
+Alimento   Grasas                  24
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Guindas en almíbar
+Alimento   Calorias                102
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           26.2
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Helado de crema
+Alimento   Calorias                177
+Alimento   Proteinas               4
+Alimento   Carbohidratos           21
+Alimento   Grasas                  8.6
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Helado de crema con fructosa
+Alimento   Calorias                177
+Alimento   Proteinas               4
+Alimento   Carbohidratos           21
+Alimento   Grasas                  8.6
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Helado de hielo - sorbete - polo
+Alimento   Calorias                134
+Alimento   Proteinas               1
+Alimento   Carbohidratos           29.5
+Alimento   Grasas                  1.3
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Helado-sorbete 
+Alimento   Calorias                134
+Alimento   Proteinas               1
+Alimento   Carbohidratos           29.5
+Alimento   Grasas                  1.3
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Hojaldre con mantequilla
+Alimento   Calorias                577
+Alimento   Proteinas               5.8
+Alimento   Carbohidratos           47.4
+Alimento   Grasas                  40.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Hojaldre con margarina
+Alimento   Calorias                577
+Alimento   Proteinas               5.8
+Alimento   Carbohidratos           47.4
+Alimento   Grasas                  40.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Masa de hojaldre congelada
+Alimento   Calorias                560
+Alimento   Proteinas               7.5
+Alimento   Carbohidratos           44.3
+Alimento   Grasas                  38
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Masa quebrada con mantequilla
+Alimento   Calorias                540
+Alimento   Proteinas               6.9
+Alimento   Carbohidratos           55.8
+Alimento   Grasas                  32.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Masa quebrada con margarina
+Alimento   Calorias                540
+Alimento   Proteinas               6.9
+Alimento   Carbohidratos           55.8
+Alimento   Grasas                  32.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mazapán
+Alimento   Calorias                503
+Alimento   Proteinas               8
+Alimento   Carbohidratos           58.7
+Alimento   Grasas                  25
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mermelada
+Alimento   Calorias                250
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           59.6
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mermelada de ciruela
+Alimento   Calorias                247
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           61.2
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mermelada de frambuesa
+Alimento   Calorias                250
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           61.4
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mermelada de kiwi
+Alimento   Calorias                247
+Alimento   Proteinas               0.2
+Alimento   Carbohidratos           61.4
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mermelada de mora
+Alimento   Calorias                240
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           57.5
+Alimento   Grasas                  0.7
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mermelada de naranja
+Alimento   Calorias                236
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           58.3
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mermelada de tomate
+Alimento   Calorias                242
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           59.7
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        65
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Mermelada sin azúcar
+Alimento   Calorias                33
+Alimento   Proteinas               0.8
+Alimento   Carbohidratos           6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Miel
+Alimento   Calorias                300
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           75
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Miel / Sirope de ágave
+Alimento   Calorias                0
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        15
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Milhoja de nata
+Alimento   Calorias                290
+Alimento   Proteinas               4.7
+Alimento   Carbohidratos           33
+Alimento   Grasas                  17
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Muffins
+Alimento   Calorias                294
+Alimento   Proteinas               7.8
+Alimento   Carbohidratos           42.3
+Alimento   Grasas                  10.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Natillas
+Alimento   Calorias                102
+Alimento   Proteinas               3.7
+Alimento   Carbohidratos           15.4
+Alimento   Grasas                  2.9
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Natillas de chocolate
+Alimento   Calorias                129
+Alimento   Proteinas               4.2
+Alimento   Carbohidratos           19
+Alimento   Grasas                  4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Pan de leche
+Alimento   Calorias                364
+Alimento   Proteinas               10
+Alimento   Carbohidratos           47
+Alimento   Grasas                  14.6
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Pastel de chocolate
+Alimento   Calorias                445
+Alimento   Proteinas               5.3
+Alimento   Carbohidratos           41.9
+Alimento   Grasas                  27.9
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Rosquillas fritas
+Alimento   Calorias                387
+Alimento   Proteinas               5.4
+Alimento   Carbohidratos           52.2
+Alimento   Grasas                  17.4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Tarta de frutas
+Alimento   Calorias                393
+Alimento   Proteinas               5
+Alimento   Carbohidratos           57.9
+Alimento   Grasas                  14.8
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Tarta de manzana
+Alimento   Calorias                298
+Alimento   Proteinas               3.5
+Alimento   Carbohidratos           37.6
+Alimento   Grasas                  14.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Turrón de almendra blando
+Alimento   Calorias                533
+Alimento   Proteinas               13.2
+Alimento   Carbohidratos           46
+Alimento   Grasas                  31
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Turrón de almendra blando sin azúcar
+Alimento   Calorias                525
+Alimento   Proteinas               16
+Alimento   Carbohidratos           38.8
+Alimento   Grasas                  34
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Turrón de almendra duro
+Alimento   Calorias                516
+Alimento   Proteinas               13
+Alimento   Carbohidratos           46
+Alimento   Grasas                  29
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Turrón de almendra duro sin azúcar
+Alimento   Calorias                525
+Alimento   Proteinas               14
+Alimento   Carbohidratos           40.8
+Alimento   Grasas                  34
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Dulces y Reposteria
+
+
+
+Alimento   Nombre                  Agua con gas embotellada
+Alimento   Calorias                0
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Agua corriente
+Alimento   Calorias                0
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Agua sin gas embotellada
+Alimento   Calorias                0
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Aguardiente
+Alimento   Calorias                222
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Anís
+Alimento   Calorias                267
+Alimento   Proteinas               0
+Alimento   Carbohidratos           1
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Batido de fresa
+Alimento   Calorias                65
+Alimento   Proteinas               2.8
+Alimento   Carbohidratos           11.3
+Alimento   Grasas                  1.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Bebida isotónica gatorade
+Alimento   Calorias                24
+Alimento   Proteinas               0
+Alimento   Carbohidratos           6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Cerveza
+Alimento   Calorias                35
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           3.1
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        110
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Cerveza negra
+Alimento   Calorias                37
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           4
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        110
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Cerveza sin alcohol
+Alimento   Calorias                25
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           5.3
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        110
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Champagne
+Alimento   Calorias                83
+Alimento   Proteinas               0.1
+Alimento   Carbohidratos           5.1
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Coca cola grande 
+Alimento   Calorias                210
+Alimento   Proteinas               0
+Alimento   Carbohidratos           55
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Coca cola light grande 
+Alimento   Calorias                5
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Coca cola mediana 
+Alimento   Calorias                168
+Alimento   Proteinas               0
+Alimento   Carbohidratos           44
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Coca cola pequeña 
+Alimento   Calorias                126
+Alimento   Proteinas               0
+Alimento   Carbohidratos           33
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Coñac
+Alimento   Calorias                240
+Alimento   Proteinas               0
+Alimento   Carbohidratos           2
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Gaseosa azucarada
+Alimento   Calorias                21
+Alimento   Proteinas               0
+Alimento   Carbohidratos           5.4
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Ginebra
+Alimento   Calorias                220
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Leche de soja
+Alimento   Calorias                55
+Alimento   Proteinas               3.2
+Alimento   Carbohidratos           5
+Alimento   Grasas                  1.84
+Alimento   Indice Glicemico        30
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Licor dulce
+Alimento   Calorias                225
+Alimento   Proteinas               0
+Alimento   Carbohidratos           37
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Limonada envasada
+Alimento   Calorias                21
+Alimento   Proteinas               0
+Alimento   Carbohidratos           5.6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Refresco azucarados
+Alimento   Calorias                42
+Alimento   Proteinas               0
+Alimento   Carbohidratos           10.6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Ron
+Alimento   Calorias                234
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Sidra
+Alimento   Calorias                50
+Alimento   Proteinas               0
+Alimento   Carbohidratos           6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Soda - sifón
+Alimento   Calorias                35
+Alimento   Proteinas               0
+Alimento   Carbohidratos           8.8
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Tequila
+Alimento   Calorias                267
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Vino blanco
+Alimento   Calorias                72
+Alimento   Proteinas               0.1
+Alimento   Carbohidratos           2.6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Vino dulce
+Alimento   Calorias                161
+Alimento   Proteinas               0.2
+Alimento   Carbohidratos           13
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Vino fino
+Alimento   Calorias                126
+Alimento   Proteinas               0.2
+Alimento   Carbohidratos           10
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Vino rosado
+Alimento   Calorias                67
+Alimento   Proteinas               0.1
+Alimento   Carbohidratos           1.4
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Vinto tinto
+Alimento   Calorias                71
+Alimento   Proteinas               0.2
+Alimento   Carbohidratos           0.3
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Vodka
+Alimento   Calorias                235
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Whisky
+Alimento   Calorias                247
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0.1
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de limón
+Alimento   Calorias                42
+Alimento   Proteinas               0.4
+Alimento   Carbohidratos           3
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        20
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de manzana envasado azucarado
+Alimento   Calorias                57
+Alimento   Proteinas               0
+Alimento   Carbohidratos           11.8
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de manzana sin azúcar
+Alimento   Calorias                51
+Alimento   Proteinas               0
+Alimento   Carbohidratos           11.8
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de melocotón envasado azucarado
+Alimento   Calorias                50
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           10.5
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de melocotón sin azúcar
+Alimento   Calorias                47
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           10.5
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de melocotón y uva
+Alimento   Calorias                50
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           12
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de naranja envasado azucarado
+Alimento   Calorias                46
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           12
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo-jugo de naranja exprimido sin azúcar
+Alimento   Calorias                47
+Alimento   Proteinas               0.7
+Alimento   Carbohidratos           9.4
+Alimento   Grasas                  0.2
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de piña envasado azucarado
+Alimento   Calorias                48
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           9.7
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de piña sin azúcar
+Alimento   Calorias                43
+Alimento   Proteinas               0.3
+Alimento   Carbohidratos           9.7
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        50
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de pomelo envasado azucarado
+Alimento   Calorias                50
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           10.1
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de pomelo sin azúcar
+Alimento   Calorias                47
+Alimento   Proteinas               0.5
+Alimento   Carbohidratos           10.1
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de tomate
+Alimento   Calorias                15
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           2.6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        35
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de uva
+Alimento   Calorias                70
+Alimento   Proteinas               0.2
+Alimento   Carbohidratos           16.6
+Alimento   Grasas                  0.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Zumo - jugo de zanahoria sin azúcar
+Alimento   Calorias                23
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           4.7
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Bebidas
+
+
+
+Alimento   Nombre                  Alitas de pollo x4 - Burger King
+Alimento   Calorias                222
+Alimento   Proteinas               20.5
+Alimento   Carbohidratos           2.5
+Alimento   Grasas                  14.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Aros de cebolla grandes - Burger King*
+Alimento   Calorias                411
+Alimento   Proteinas               6
+Alimento   Carbohidratos           48
+Alimento   Grasas                  24
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Aros de cebolla medianos - Burger King*
+Alimento   Calorias                331
+Alimento   Proteinas               6.3
+Alimento   Carbohidratos           45.2
+Alimento   Grasas                  12.9
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Arroz blanco precocido o cocción rápida
+Alimento   Calorias                349
+Alimento   Proteinas               6.9
+Alimento   Carbohidratos           78.2
+Alimento   Grasas                  0.6
+Alimento   Indice Glicemico        85
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Bolsita de ketchup - Burger King*
+Alimento   Calorias                16
+Alimento   Proteinas               0
+Alimento   Carbohidratos           4
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Bolsita de ketchup - McDonald´s*
+Alimento   Calorias                10
+Alimento   Proteinas               0
+Alimento   Carbohidratos           3
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        55
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Bolsita de mayonesa - Burger King*
+Alimento   Calorias                365
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  40
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Bolsita de mostaza - Burger King*
+Alimento   Calorias                5
+Alimento   Proteinas               0
+Alimento   Carbohidratos           0
+Alimento   Grasas                  2
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Brownie - Burger King*
+Alimento   Calorias                350
+Alimento   Proteinas               5.1
+Alimento   Carbohidratos           41.5
+Alimento   Grasas                  18.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Calamar a la romana congelado
+Alimento   Calorias                200
+Alimento   Proteinas               5.6
+Alimento   Carbohidratos           24
+Alimento   Grasas                  8
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Canelones de carne congelados
+Alimento   Calorias                132
+Alimento   Proteinas               6.2
+Alimento   Carbohidratos           14
+Alimento   Grasas                  5.4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Crema de cacahuete - maní
+Alimento   Calorias                609
+Alimento   Proteinas               30
+Alimento   Carbohidratos           11.2
+Alimento   Grasas                  47.8
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Crema de cacahuete - maní sin azúcar
+Alimento   Calorias                609
+Alimento   Proteinas               30
+Alimento   Carbohidratos           11
+Alimento   Grasas                  45
+Alimento   Indice Glicemico        40
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Croquetas de bacalao congeladas
+Alimento   Calorias                148
+Alimento   Proteinas               3.7
+Alimento   Carbohidratos           23
+Alimento   Grasas                  4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Croquetas de merluza congeladas
+Alimento   Calorias                139
+Alimento   Proteinas               3.4
+Alimento   Carbohidratos           22
+Alimento   Grasas                  3.7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Empanadillas
+Alimento   Calorias                320
+Alimento   Proteinas               9.2
+Alimento   Carbohidratos           25.4
+Alimento   Grasas                  20.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Empanadillas de atún congeladas
+Alimento   Calorias                260
+Alimento   Proteinas               4.7
+Alimento   Carbohidratos           30
+Alimento   Grasas                  12
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Ensalada - Burger King*
+Alimento   Calorias                25
+Alimento   Proteinas               1
+Alimento   Carbohidratos           4.5
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Ensalada César con pollo a la plancha - McDonald´s*
+Alimento   Calorias                230
+Alimento   Proteinas               33
+Alimento   Carbohidratos           6
+Alimento   Grasas                  8
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Ensalada César con pollo crujiente - McDonald´s*
+Alimento   Calorias                300
+Alimento   Proteinas               25
+Alimento   Carbohidratos           22
+Alimento   Grasas                  13
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Ensalada Delight - Burger King*
+Alimento   Calorias                41
+Alimento   Proteinas               2
+Alimento   Carbohidratos           7.6
+Alimento   Grasas                  0.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Ensalada Delight con pollo a la parrilla - Burger *
+Alimento   Calorias                136
+Alimento   Proteinas               20.3
+Alimento   Carbohidratos           8.9
+Alimento   Grasas                  2.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Ensalada Delight con pollo crujiente - Burger King*
+Alimento   Calorias                288
+Alimento   Proteinas               20.6
+Alimento   Carbohidratos           22.4
+Alimento   Grasas                  13.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Fondant Chocolate - Burger King*
+Alimento   Calorias                449
+Alimento   Proteinas               6.3
+Alimento   Carbohidratos           44.6
+Alimento   Grasas                  27.7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Fondant Chocolate Blanco - Burger King*
+Alimento   Calorias                441
+Alimento   Proteinas               6.9
+Alimento   Carbohidratos           44.4
+Alimento   Grasas                  26.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Fondant Frambuesa - Burger King*
+Alimento   Calorias                380
+Alimento   Proteinas               3.3
+Alimento   Carbohidratos           45.9
+Alimento   Grasas                  19.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Frappé sabor a caramelo mediano - Burger King*
+Alimento   Calorias                314
+Alimento   Proteinas               10.2
+Alimento   Carbohidratos           62.6
+Alimento   Grasas                  2.6
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Frappé sabor a chocolate mediano - Burger King*
+Alimento   Calorias                315
+Alimento   Proteinas               10.6
+Alimento   Carbohidratos           57.4
+Alimento   Grasas                  4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Bacon toasty - Burger King*
+Alimento   Calorias                275
+Alimento   Proteinas               13.5
+Alimento   Carbohidratos           27.3
+Alimento   Grasas                  12.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa BBQ Beef Wrap - Burger King*
+Alimento   Calorias                532
+Alimento   Proteinas               24.1
+Alimento   Carbohidratos           47.7
+Alimento   Grasas                  27.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Big King XXL - Burger King*
+Alimento   Calorias                652
+Alimento   Proteinas               20.3
+Alimento   Carbohidratos           90
+Alimento   Grasas                  22.6
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Burguer - Burger King*
+Alimento   Calorias                280
+Alimento   Proteinas               15.4
+Alimento   Carbohidratos           29
+Alimento   Grasas                  11.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Cheeseburger - McDonald´s*
+Alimento   Calorias                310
+Alimento   Proteinas               15
+Alimento   Carbohidratos           35
+Alimento   Grasas                  12
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Cheeseburguer - Burger King*
+Alimento   Calorias                328
+Alimento   Proteinas               17.7
+Alimento   Carbohidratos           30.1
+Alimento   Grasas                  14.9
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Chicken Tendercrisp - Burger King*
+Alimento   Calorias                777
+Alimento   Proteinas               36.9
+Alimento   Carbohidratos           59.4
+Alimento   Grasas                  42.6
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa completa Big Mac - McDonald´s*
+Alimento   Calorias                502
+Alimento   Proteinas               26
+Alimento   Carbohidratos           40
+Alimento   Grasas                  26
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa completa McRoyalDeluxe - McDonald´s*
+Alimento   Calorias                542
+Alimento   Proteinas               29
+Alimento   Carbohidratos           31
+Alimento   Grasas                  33
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Crispy Chicken ® - Burger King*
+Alimento   Calorias                510
+Alimento   Proteinas               15
+Alimento   Carbohidratos           41.4
+Alimento   Grasas                  31.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa de pescado - McDonald´s*
+Alimento   Calorias                330
+Alimento   Proteinas               13
+Alimento   Carbohidratos           34
+Alimento   Grasas                  15
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Doble Cheese Bacon XXL - Burger King*
+Alimento   Calorias                780
+Alimento   Proteinas               50
+Alimento   Carbohidratos           32.3
+Alimento   Grasas                  49.8
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Doble Whopper ® - Burger King*
+Alimento   Calorias                623
+Alimento   Proteinas               16.3
+Alimento   Carbohidratos           90.7
+Alimento   Grasas                  20.8
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Grilled Chicken ® - Burger King*
+Alimento   Calorias                344
+Alimento   Proteinas               16.9
+Alimento   Carbohidratos           29
+Alimento   Grasas                  17.4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Long Chicken - Burger King*
+Alimento   Calorias                630
+Alimento   Proteinas               25.9
+Alimento   Carbohidratos           54.2
+Alimento   Grasas                  34
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa pequeña - McDonald´s*
+Alimento   Calorias                246
+Alimento   Proteinas               11
+Alimento   Carbohidratos           29
+Alimento   Grasas                  9
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Steakhouse - Burger King
+Alimento   Calorias                878
+Alimento   Proteinas               36.6
+Alimento   Carbohidratos           64.8
+Alimento   Grasas                  52.4
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Steakhouse César - Burger King*
+Alimento   Calorias                781
+Alimento   Proteinas               37.7
+Alimento   Carbohidratos           55.6
+Alimento   Grasas                  45.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Whopper - Burger King*
+Alimento   Calorias                640
+Alimento   Proteinas               27
+Alimento   Carbohidratos           51
+Alimento   Grasas                  36
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa Whopper Jr. ® - Burger King*
+Alimento   Calorias                350
+Alimento   Proteinas               15.6
+Alimento   Carbohidratos           30.5
+Alimento   Grasas                  18.2
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Hamburguesa York Toasty - Burger King*
+Alimento   Calorias                263
+Alimento   Proteinas               13.8
+Alimento   Carbohidratos           26.9
+Alimento   Grasas                  11.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Helado Sandy con sirope de caramelo - Burger King*
+Alimento   Calorias                255
+Alimento   Proteinas               4.4
+Alimento   Carbohidratos           30.8
+Alimento   Grasas                  7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Helado Sandy con sirope de chocolate - Burger King*
+Alimento   Calorias                258
+Alimento   Proteinas               4.7
+Alimento   Carbohidratos           43.6
+Alimento   Grasas                  7.2
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Helado Sandy con sirope de fresa - Burger King*
+Alimento   Calorias                235
+Alimento   Proteinas               4.3
+Alimento   Carbohidratos           38.8
+Alimento   Grasas                  7.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Helado Sandy de vainilla - Burger King*
+Alimento   Calorias                203
+Alimento   Proteinas               4.2
+Alimento   Carbohidratos           30.8
+Alimento   Grasas                  7
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Helado Sundae con caramelo - McDonald´s*
+Alimento   Calorias                340
+Alimento   Proteinas               7
+Alimento   Carbohidratos           62
+Alimento   Grasas                  7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  King Nuggets ® x9 - Burger King*
+Alimento   Calorias                387
+Alimento   Proteinas               21.4
+Alimento   Carbohidratos           30.6
+Alimento   Grasas                  19.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  McNuggets de pollo 4 piezas - McDonald´s*
+Alimento   Calorias                170
+Alimento   Proteinas               10
+Alimento   Carbohidratos           10
+Alimento   Grasas                  10
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  McNuggets de pollo 6 piezas - McDonald´s*
+Alimento   Calorias                269
+Alimento   Proteinas               21
+Alimento   Carbohidratos           20
+Alimento   Grasas                  15
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Nata montada azucarada
+Alimento   Calorias                308
+Alimento   Proteinas               2.3
+Alimento   Carbohidratos           3.2
+Alimento   Grasas                  31.7
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Paella de marisco congelada
+Alimento   Calorias                124
+Alimento   Proteinas               3.5
+Alimento   Carbohidratos           25
+Alimento   Grasas                  0.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Papilla de harina de maíz
+Alimento   Calorias                423
+Alimento   Proteinas               15.3
+Alimento   Carbohidratos           70.6
+Alimento   Grasas                  8.8
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Pascual Bi frutas Tropical - Burger King*
+Alimento   Calorias                94
+Alimento   Proteinas               0.6
+Alimento   Carbohidratos           22.6
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas al horno
+Alimento   Calorias                162
+Alimento   Proteinas               3.2
+Alimento   Carbohidratos           29.8
+Alimento   Grasas                  4.2
+Alimento   Indice Glicemico        95
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas congeladas prefritas
+Alimento   Calorias                277
+Alimento   Proteinas               4.1
+Alimento   Carbohidratos           33
+Alimento   Grasas                  13.5
+Alimento   Indice Glicemico        95
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas
+Alimento   Calorias                234
+Alimento   Proteinas               3.6
+Alimento   Carbohidratos           34
+Alimento   Grasas                  11
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas de bolsa
+Alimento   Calorias                518
+Alimento   Proteinas               6.5
+Alimento   Carbohidratos           47.5
+Alimento   Grasas                  33
+Alimento   Indice Glicemico        95
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas de bolsa light
+Alimento   Calorias                454
+Alimento   Proteinas               4.62
+Alimento   Carbohidratos           70.1
+Alimento   Grasas                  17.2
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas gigantes - Burger King*
+Alimento   Calorias                467
+Alimento   Proteinas               4
+Alimento   Carbohidratos           62
+Alimento   Grasas                  23
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas grandes - Burger King*
+Alimento   Calorias                395
+Alimento   Proteinas               4
+Alimento   Carbohidratos           53
+Alimento   Grasas                  20
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas grandes - McDonald´s*
+Alimento   Calorias                570
+Alimento   Proteinas               6
+Alimento   Carbohidratos           70
+Alimento   Grasas                  30
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas medianas - Burger King*
+Alimento   Calorias                286
+Alimento   Proteinas               3.7
+Alimento   Carbohidratos           37.7
+Alimento   Grasas                  12.9
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas medianas - McDonald´s*
+Alimento   Calorias                380
+Alimento   Proteinas               4
+Alimento   Carbohidratos           47
+Alimento   Grasas                  20
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas pequeñas - Burger King*
+Alimento   Calorias                206
+Alimento   Proteinas               2
+Alimento   Carbohidratos           27
+Alimento   Grasas                  10
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Patatas fritas pequeñas - McDonald´s*
+Alimento   Calorias                250
+Alimento   Proteinas               2
+Alimento   Carbohidratos           30
+Alimento   Grasas                  13
+Alimento   Indice Glicemico        70
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Pescado empanado congelado
+Alimento   Calorias                183
+Alimento   Proteinas               12.7
+Alimento   Carbohidratos           16
+Alimento   Grasas                  7.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Pizza de atún
+Alimento   Calorias                192
+Alimento   Proteinas               7.9
+Alimento   Carbohidratos           16.4
+Alimento   Grasas                  9.7
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Pizza margarita
+Alimento   Calorias                195
+Alimento   Proteinas               8.2
+Alimento   Carbohidratos           22
+Alimento   Grasas                  7.7
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Puré de patata instantáneo
+Alimento   Calorias                350
+Alimento   Proteinas               8.2
+Alimento   Carbohidratos           75
+Alimento   Grasas                  0.8
+Alimento   Indice Glicemico        90
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Puré de patatas con leche 
+Alimento   Calorias                356
+Alimento   Proteinas               8.9
+Alimento   Carbohidratos           76.9
+Alimento   Grasas                  1.4
+Alimento   Indice Glicemico        90
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Puré de patatas 
+Alimento   Calorias                353
+Alimento   Proteinas               6.9
+Alimento   Carbohidratos           79.8
+Alimento   Grasas                  0.7
+Alimento   Indice Glicemico        90
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Rollitos de primavera congelados
+Alimento   Calorias                145
+Alimento   Proteinas               5.9
+Alimento   Carbohidratos           5.9
+Alimento   Grasas                  10.5
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Salsa barbacoa 
+Alimento   Calorias                45
+Alimento   Proteinas               0
+Alimento   Carbohidratos           11
+Alimento   Grasas                  0
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Salsa de yogur 
+Alimento   Calorias                227
+Alimento   Proteinas               2
+Alimento   Carbohidratos           6
+Alimento   Grasas                  22
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Salsa mayonesa - mahonesa casera
+Alimento   Calorias                735
+Alimento   Proteinas               1.5
+Alimento   Carbohidratos           0
+Alimento   Grasas                  82.5
+Alimento   Indice Glicemico        0
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Salsa mayonesa - mahonesa industrial
+Alimento   Calorias                709
+Alimento   Proteinas               1.3
+Alimento   Carbohidratos           6
+Alimento   Grasas                  75.7
+Alimento   Indice Glicemico        60
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Smoothie de fresa y plátano mediano 
+Alimento   Calorias                283
+Alimento   Proteinas               1.9
+Alimento   Carbohidratos           66.3
+Alimento   Grasas                  0.9
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Smoothie de mango y tropical mediano 
+Alimento   Calorias                300
+Alimento   Proteinas               1.9
+Alimento   Carbohidratos           70
+Alimento   Grasas                  1.1
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Sopa de fideos de sobre
+Alimento   Calorias                320
+Alimento   Proteinas               11
+Alimento   Carbohidratos           58.2
+Alimento   Grasas                  4.3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Tomate frito en conserva con azúcar
+Alimento   Calorias                87
+Alimento   Proteinas               1.5
+Alimento   Carbohidratos           5.2
+Alimento   Grasas                  6.5
+Alimento   Indice Glicemico        45
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Tortilla de patata
+Alimento   Calorias                217
+Alimento   Proteinas               3.9
+Alimento   Carbohidratos           24
+Alimento   Grasas                  11.8
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
+Alimento   Nombre                  Yogur Fruit & Yogurt - McDonald´s*
+Alimento   Calorias                154
+Alimento   Proteinas               5
+Alimento   Carbohidratos           27
+Alimento   Grasas                  3
+Alimento   Indice Glicemico        ND
+Alimento   Tipo                    Comidas Elaboradas
+
+
+
